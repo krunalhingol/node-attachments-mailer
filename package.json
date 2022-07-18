@@ -1,0 +1,23 @@
+{
+  "name": "attachments-mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krunalhingol/node-attachments-mailer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krunalhingol/node-attachments-mailer/issues"
+  },
+  "homepage": "https://github.com/krunalhingol/node-attachments-mailer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "nodemailer": "^6.7.7"
+  }
+}
